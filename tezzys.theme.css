@@ -3,13 +3,11 @@
  * @description a dark, customizable discord theme.
  * @author tezzy
  * @version 0.0.1
- * @website https://github.com/refact0r/midnight-discord
- * @source https://github.com/refact0r/midnight-discord/blob/master/themes/midnight.theme.css
  * @authorId 732275651385753753
- * @authorLink https://guns.lol/tezzybtw
+ * @authorLink https://github.com/tezzyBTW
 */
 
-@import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
+@import url('https://raw.githubusercontent.com/tezzyBTW/tezzy-s-Theme/refs/heads/main/tezzys.theme.css');
 
 body {
     --font: 'figtree';
@@ -34,7 +32,7 @@ body {
     --window-control-size: 14px;
 
     --custom-dms-icon: custom;
-    --dms-icon-svg-url: url('https://refact0r.github.io/midnight-discord/assets/Font_Awesome_5_solid_moon.svg');
+    --dms-icon-svg-url: url('https://raw.githubusercontent.com/tezzyBTW/tezzy-s-Theme/refs/heads/main/Font_moon.svg');
     --dms-icon-svg-size: 90%;
     --dms-icon-color-before: var(--icon-secondary);
     --dms-icon-color-after: var(--white);
